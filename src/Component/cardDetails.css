@@ -1,0 +1,20 @@
+.label{
+    color:black;
+}
+.button{
+    float:right
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+  }
+  .center {
+   
+    padding: 10px;
+    background:whitesmoke;
+    color: #fff;
+    font-weight: bold;
+    font-family: Tahoma;
+  }
